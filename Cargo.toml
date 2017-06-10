@@ -1,0 +1,13 @@
+[package]
+name = "ingots"
+version = "0.1.0"
+description = "Rust MVC Web Application Framework"
+readme = "README.md"
+repository = "https://github.com/ingots/ingots"
+documentation= "https://ingots.github.io/"
+license = "MIT"
+authors = [
+    "Carlson Orozco <carlsonorozco@gmail.com>"
+]
+
+[dependencies]
